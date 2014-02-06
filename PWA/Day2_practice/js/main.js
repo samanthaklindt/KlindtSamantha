@@ -25,13 +25,3 @@ helloworld2();                          //calling name function
 //Have to know both functions, but pick the one you think is best as a student to use.
 
 
-(function(){
-    console.log("hello folks!");
-
-    function hello(){
-        console.log("hello");
-    }
-
-    hello();
-
-})();
